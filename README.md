@@ -1,7 +1,8 @@
 ```
-# create foods
-# create meals
-# add meals to totalday
+# create foods you need
+# create meals you need
+# create day with targets
+# add meals to day
 
-irb -r ./food.rb
+ruby food.rb
 ```
